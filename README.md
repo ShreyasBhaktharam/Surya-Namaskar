@@ -1,16 +1,13 @@
-# yoga
+# Surya Namaskar
 
-A new Flutter application.
+A free and open-source Yoga applicaiton developed using Flutter. Ever wanted to master the 12 sacred poses(asanas) of Surya Namaskar? This app will help you do just that!
 
-## Getting Started
+With a simple and intuitive UI, Surya Namaskar will help you on your journey to physical, mental and spiritual well-being.
 
-This project is a starting point for a Flutter application.
+## Future Features
 
-A few resources to get you started if this is your first Flutter project:
+* Save your progress and be able to improve your performance over time
+* Light and Dark theme
+* Voice Commands (Like "Pause", "Stop", "Resume" etc.)
+* Adding more Yoga Workouts(Meditation, Streches etc.)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
