@@ -15,7 +15,7 @@ With a simple and intuitive UI, Surya Namaskar will help you on your journey to 
 
 # Demo
 
-![App-Demo](https://github.com/ShreyasBhaktharam/Surya-Namaskar/blob/master/images/Surya_Namaskar.gif)
+![App-Demo](https://github.com/ShreyasBhaktharam/Surya-Namaskar/blob/master/images/Surya_Namaskar_2.gif)
 
 ## Future Features
 
