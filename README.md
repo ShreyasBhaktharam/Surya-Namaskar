@@ -13,6 +13,10 @@ With a simple and intuitive UI, Surya Namaskar will help you on your journey to 
 ![alt-text](https://github.com/ShreyasBhaktharam/Surya-Namaskar/blob/master/images/Screenshot%235%20(1).jpg)
 ![alt-text](https://github.com/ShreyasBhaktharam/Surya-Namaskar/blob/master/images/Screenshot%236%20(1).jpg)
 
+# Demo
+
+![App-Demo](https://github.com/ShreyasBhaktharam/Surya-Namaskar/blob/master/images/Surya_Namaskar.gif)
+
 ## Future Features
 
 * Save your progress and be able to improve your performance over time
